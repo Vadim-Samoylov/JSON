@@ -1,0 +1,22 @@
+{
+user_hard_skills:{[D[D : {
+1:"sniffer traffic"
+2:"terminal"
+3:"Git"
+4:"Postman"[A[A[A[C[C[C[C[C[C[C[C,[B[D[D[D[D[D[D[D[D,[B[D[D[D[D[D[D,[B[C[C[C,
+5:"Devtools"
+6:"Python"[A[C[C,[B[D[D[D
+}
+user_soft_skills : {
+1:[D [C: [D[[3~[C[C[C"communicate"
+2 : "[A[C[C[C[C[C[C[C[C[C[C[C[3~ion",[D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Deducation",
+3 : "assistance"
+}
+user_tools : {
+1 : "Charles",
+2 : "Git Bash",
+3 : "Git",
+4 : "Postman",
+5 : "Devtools",
+6 : "PyCharm"
+}
